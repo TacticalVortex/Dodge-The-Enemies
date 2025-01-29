@@ -1,4 +1,4 @@
-# Test-Godot-2D-Game
+# First-Godot-2D-Game
 
 This is a simple game about avoiding enemies
 
